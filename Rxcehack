@@ -1,4 +1,4 @@
-Ju#!/usr/bin/python
+#!/usr/bin/python
 # -*- coding: UTF-8 -*-
 
 from os import system, name
@@ -9,9 +9,8 @@ import sys
 import datetime
 from base64 import b64decode,b64encode
 from datetime import date
-
-expirydate = datetime.date(2022 11, 27)
-#expirydate = datetime.date(2023, 12, 30)
+expirydate = datetime.date(2022, 11, 27)
+#expirydate = datetime.date(2023, 01, 30)
 today=date.today()
 def hero():
 
