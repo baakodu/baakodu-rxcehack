@@ -169,5 +169,5 @@ if(expirydate>today):
 else:
     banner='figlet RXCE'
     system(banner)
-    print("RXCEHACKED")
-    Enter parity price :
+    print("RXCE HACKED")
+    Enter party price :
