@@ -123,7 +123,7 @@ def hero():
             print("Play on next specified time!!")
             print("-----------Current Time UP----------")
             sys.exit(" \n \n \n RXCEHACK ")
-            print(numbers) party period 
+            #print numbers
   
 
 
