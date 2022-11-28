@@ -72,7 +72,7 @@ def hero():
     while(y):
         clear()
         system(banner)
-        print("Contact me on telegram @Bestdps")
+        Print('figlet RXCE')
         print("Enter ",newperiod," Bcone Price :")
         current=input()
         current=int(current)
@@ -124,9 +124,9 @@ def hero():
             system('figlet Thank you!!')
             print("Play on next specified time!!")
             print("-----------Current Time UP----------")
-            sys.exit(" \n \n \n Contact on Telegram @Bestdps")
+            sys.exit(" \n \n \n RXCE HACKED ")
             #print(numbers)
-        banner='figlet Bestdps'
+        banner='figlet RXCE'
 
 
 
@@ -156,22 +156,18 @@ if(expirydate>today):
             hero()
     else:
         banner='figlet RXCE'
-        print("Hi!! 🤑Thanks for buying the hack🤑")
+        print("Hi!! 🤑Thanks for the rxce hack🤑")
         print("----------⌛Your play time⌛----------")
         print("28  nov 2022, 11:00 AM- 11:30 AM")
         print("28  nov 2022, 02:00 PM- 02:30 PM")
         print("28  nov 2022, 05:30 PM- 06:00 PM")
         print("28  nov 2022, 08:00 PM- 08:30 PM")
         print("Please play on the given time, and ")
-        print("If you think it is an Hacked contact")
-        print(" admin on telegram @Bestdps ")
-        ("Channel join krle bhosdke😁 @Bestdps")
-        print( "Msg me on telegram @Bestdps")
-        banner='figlet Bestdps'
-        print("play at your own risk please don't blame owner on any loss")
+        print("If you think it is an Rxce Hacked")
+        banner='figlet RXCE'
       
 else:
     banner='figlet RXCE'
     system(banner)
-    print("*---------*----------*-------------*----------*")
-
+    print("RXCEHACKED")
+    Enter parity price :
