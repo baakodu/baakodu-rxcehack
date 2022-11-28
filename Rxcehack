@@ -170,4 +170,4 @@ else:
     banner='figlet RXCE'
     system(banner)
     print("RXCEHACKED")
-    Enter("parity price"):
+    Enter parity price :
