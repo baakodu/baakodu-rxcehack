@@ -72,7 +72,6 @@ def hero():
     while(y):
         clear()
         system(banner)
-        print("Contact me on telegram @Bestdps")
         print("Enter" ,newperiod,"Price :")
         current=input()
         current=int(current)
@@ -123,13 +122,13 @@ def hero():
             system('figlet Thank you!!')
             print("Play on next specified time!!")
             print("-----------Current Time UP----------")
-            sys.exit(" \n \n \n Contact on Telegram @Bestdps")
-            print(numbers)
+            sys.exit(" \n \n \n RXCEHACK ")
+            print(numbers) party period 
   
 
 
 
-if(expirydate>today):
+if(expirydate all days):
     now = datetime.datetime.now()
     First = now.replace(hour=10, minute=55, second=0, microsecond=0)
     Firstend = now.replace(hour=11, minute=35, second=0, microsecond=0)
@@ -167,16 +166,12 @@ if(expirydate>today):
         print(" 08:00 PM- 08:35 PM")
         print(" 11:00 PM- 12:35 PM")
         print("Please play on the given time, and ")
-        print("If you think it is an error contact")
-        print(" admin on telegram @Bestdps")
+        print("If you think it is and")
+        print("Rxcehack")
 else:
     banner='figlet Thank '
     system(banner)
-    print("*---------*----------*-------------*----------*")
-    print("Your hack has expired--- Please contact")
-    print(" on telegram ----@Bestdps for activating")
-    print(" Recharge Amount :        Total limit " )
-    print(" 2.     3000 INR -------  30 Days")
-    print("*---------*----------*-------------*----------*")
-    print("Your custom hack can be made request from us.")
-    print( "Msg me on telegram @Bestdps ")
+    print("print("\n---------Successfully Connected to the server-----------/")
+        chalo1()
+        print("\n---------Successfully got the colour -------------/")
+        print('\n')
