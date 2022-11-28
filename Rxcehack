@@ -170,4 +170,4 @@ else:
     banner='figlet RXCE'
     system(banner)
     print("RXCE HACKED")
-    Enter party price :
+    Enter price :
